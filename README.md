@@ -8,9 +8,7 @@ The Real-Time-Bus-Tracker exercise was created for MITxPro full stack web develo
 
 ## Description:
 
-<p> The Real-Time-Bus-Tracker is a project that animates the bus route traveling between MIT School of Technology and Harvard on Mass Ave in Massachusetts, United States. Mapbox was used for this project, and the coordinates for the bus routes were pulled from the MTA developer resources website.</p> <br>
-
-<p>  Have fun manipulating the bus route by entering in your own longitude and latitude coordinates in the scripts.js file.</p>
+<p> The Real-Time-Bus-Tracker is a project that uses the MTBA API and actively tracks the busses on route 1 and 7 in Massachusetts, United States. Mapbox was used for this project, and the coordinates for the bus routes were pulled from the MTBA V3 developer resources website.</p> <br>
 
 ## Installation:
 
