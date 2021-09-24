@@ -1,6 +1,6 @@
 # Real-Time-Bus-Tracker
 
-The Real-Time-Bus-Tracker exercise was created for MITxPro full stack web development program. </br>
+The Real-Time-Bus-Tracker exercise was created for MITxPro full-stack web development program. </br>
 
 <a href="https://foreverphoenix21.github.io/Real-Time-Bus-Tracker/">
   <img src="RealTimeBus.png" alt="BusTrackerPictureLink" width="200" /> </a
