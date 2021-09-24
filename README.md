@@ -8,7 +8,7 @@ The Real-Time-Bus-Tracker exercise was created for MITxPro full stack web develo
 
 ## Description:
 
-<p> The Real-Time-Bus-Tracker is a project that uses the MTBA API and actively tracks the busses on route 1 and 7 in Massachusetts, United States. Mapbox was used for this project, and the coordinates for the bus routes were pulled from the MTBA V3 developer resources website.</p>
+<p> The Real-Time-Bus-Tracker is a project that uses the MTBA API and actively tracks the busses on route 1 and 7 in Massachusetts, United States. Mapbox was used for this project, and the coordinates for the bus routes were pulled from the MTBA V3-API developer resources website.</p>
 
 ## Installation:
 
@@ -26,10 +26,11 @@ The Real-Time-Bus-Tracker exercise was created for MITxPro full stack web develo
 ***
 
 **<p> Future updates: </p>**
-- Add pins with discriptions to historical landmarks
-- Add pins to my favorite bars and breweries
-- Create buttons for different routes
-- Create a line trail of the route performed
+- Add a real time tracker that updates each bus's occupational status, direction traveled, and more. 
+- Add subway routes
+- Create buttons for different active bus and subway routes. 
+- Create different real time trackers for other states. NYC, Denver, and San Fransico. 
+
 
 ## Support:
 
