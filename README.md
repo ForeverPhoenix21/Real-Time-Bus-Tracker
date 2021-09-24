@@ -2,7 +2,7 @@
 
 The Real-Time-Bus-Tracker exercise was created for MITxPro full stack web development program. </br>
 
-<a href="https://foreverphoenix21.github.io/Active-Bus-Tracker/">
+<a href="https://foreverphoenix21.github.io/Real-Time-Bus-Tracker/">
   <img src="busTracker.png" alt="BusTrackerPictureLink" width="200" /> </a
 >
 
