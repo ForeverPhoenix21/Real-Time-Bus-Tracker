@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Real Time Bus Tracker</title>
+
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <link href="./styles.css" rel="stylesheet" />
+  </head>
+  <body>
+    <div id="map"></div>
+    <div class="map-overlay top">
+      <button style="background-color: rgb(170, 170, 170)" onclick="move()">
+        <p style="color: rgb(141, 6, 13); font-size: 2em">
+          Real Time Bus Tracker: Massachusetts
+        </p>
+        <p
+          style="
+            color: rgb(124, 32, 4);
+            font-size: em;
+            text-decoration: underline;
+            text-decoration-style: double;
+          "
+        >
+          click here to start bus tracker <br />
+          Route 1
+        </p>
+      </button>
+    </div>
+
+    <script src="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js"></script>
+    <script src="./mapanimation.js"></script>
+  </body>
+</html>
