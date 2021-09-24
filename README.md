@@ -17,7 +17,8 @@ The Real-Time-Bus-Tracker exercise was created for MITxPro full-stack web develo
 
 ## Usage:
 
-<p> This exercise was made to demonstrate asynchronous programing techniques along with the use of map markers. </p>
+<p> This exercise was made to demonstrate asynchronous programing techniques with the use of map markers.
+You can use these files a learning template to play with API's and JSON Files changing the map and route destinations.</p>
 
 ## Roadmap:
 
