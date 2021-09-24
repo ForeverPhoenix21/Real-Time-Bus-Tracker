@@ -12,7 +12,8 @@ The Real-Time-Bus-Tracker exercise was created for MITxPro full stack web develo
 
 ## Installation:
 
-<p> Upload the HTML file to your browser or fork and clone the project saving the files to your local hard drive. </p>   
+<p> Upload the HTML file to your browser or fork and clone the project saving the files to your local hard drive. </p> 
+<p>You can also run the program by clicking on the above picture in this readme file.</P>
 
 ## Usage:
 
