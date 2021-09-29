@@ -1,14 +1,14 @@
-# Real-Time-Bus-Tracker
+# Real-Time-Bus-Tracking
 
-The Real-Time-Bus-Tracker exercise was created for MITxPro full-stack web development program. </br>
+The Real-Time-Bus-Tracking exercise was created for MITxPro full-stack web development program. </br>
 
-<a href="https://foreverphoenix21.github.io/Real-Time-Bus-Tracker/">
+<a href="https://foreverphoenix21.github.io/Real-Time-Bus-Tracking/">
   <img src="RealTimeBus.png" alt="BusTrackerPictureLink" width="200" /> </a
 >
 
 ## Description:
 
-<p> The Real-Time-Bus-Tracker is a project that uses the MTBA API and actively tracks the busses on routes 1 and 7 in Massachusetts, United States. Mapbox was used for this project, and the coordinates for the bus routes were pulled from the MTBA V3-API developer resources website.</p>
+<p> The Real-Time-Bus-Tracking program is a project that uses the MTBA API and actively tracks the busses on routes 1 and 7 in Massachusetts, United States. Mapbox was used for this project, and the coordinates for the bus routes were pulled from the MTBA V3-API developer resources website.</p>
 
 ## Installation:
 
@@ -39,6 +39,6 @@ You can use these files as a learning template to play with API's and JSON Files
 
 <p> 
   
-  Reach me on *[Linkedin](https://www.linkedin.com/in/derek-diaz/)* or *[Twitter](https://twitter.com/home).*
+  Reach me on *[Linkedin](https://www.linkedin.com/in/derek-diaz/)* or *[Twitter](https://twitter.com/diazcsu.*
   
 </p>
